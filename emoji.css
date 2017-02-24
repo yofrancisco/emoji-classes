@@ -1,4 +1,4 @@
-.╯°□°╯{
+.༼╯°□°༽╯{
   display: none;
 }
 
@@ -54,6 +54,101 @@
 
 .↼‿◕ {
   text-align: left;
+}
+
+.❤️️❤️️❤️️ {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.💔💔💔 {
+  width: 50%;
+}
+
+.👻 {
+  opacity: 0;
+}
+
+.👀 {
+  opacity: 1;
+}
+
+.😺 {
+  clear: both;
+}
+
+.🙈🙉🙊{
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+
+.👽 {
+  cursor: crosshair;
+}
+
+.👌 {
+  border-radius: 50%;
+}
+
+.👍 {
+  margin: 0 auto;
+}
+
+.👉 {
+  cursor: pointer;
+}
+
+.✌️ {
+  column-count: 2;
+}
+
+.☁️ {
+  float: left;
+}
+
+.🌪 {
+  float: right;
+}
+
+.⚫️ {
+  background: black;
+}
+
+.⚪️ {
+  background: white;
+}
+
+.🔲 {
+  color: black;
+}
+
+.🔳 {
+  color: white;
+}
+
+.🌲🌲🌲 {
+  cursor: wait;
+}
+
+.🆒 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.🚽 {
+  bottom: 0;
+}
+
+.⛅️ {
+  top: 0;
+}
+
+.🎨🎨🎨 {
+  font-size: 100em;
 }
 
 .🔥🔥🔥 {
